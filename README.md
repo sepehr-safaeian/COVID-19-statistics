@@ -6,5 +6,5 @@ Moment by minute statistics of the corona virus
   <li>requests</li>
   <li>pandas</li>
   <li>bs4</li>
-  <li>Python</li>
+  <li>matplotlib</li>
 </ul>
